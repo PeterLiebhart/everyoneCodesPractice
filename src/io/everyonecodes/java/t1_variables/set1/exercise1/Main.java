@@ -9,5 +9,4 @@ public class Main {
         System.out.println(firstStop);
         System.out.println(secondStop);
         System.out.println(thirdStop);
-
     }}
