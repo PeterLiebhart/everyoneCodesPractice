@@ -1,9 +1,7 @@
 package io.everyonecodes.java.t7_consolidation.set1.exercise9;
 
-import java.awt.*;
-
 public class GameBoard {
-    int width = 60;
+    int width = 30;
     int height = 15;
 
     public void printBoard(Player player) {
@@ -20,6 +18,5 @@ public class GameBoard {
             }
         }
         System.out.println("–".repeat(this.width));
-
     }
 }
