@@ -1,0 +1,25 @@
+We did the peer review with everyone at once. I noticed a lot more differences this way,
+I think it is superior to one on one review.
+
+Exercise 1
+Mehmet used a ToString() override to print his Article. This is the way I would prefer to do it, but the exercise asked for
+a printer class specifically, so we did that instead.
+
+Exercise 2
+Everything was the same
+
+Exercise 3
+Tarah split name into first and last name, I did not
+The getter for the telephone number was unused, but the exercise demanded it so we left it in
+Mike used setters to assign properties without a constructor. While it works, we agreed that it is best to use the constructor
+and only use setters for modifications
+I checked for the empty string manually, while Mike used the predefined method isBlank() or isEmpty(). IsBlank() works best for this exercise so
+I used it as well
+
+Exercise 4
+I should have used a loop for asking about the steps, but I used a method and called it 3 times
+I used variables for readability (kmPerStep)
+We dicussed when to use static and when to use instances of a service class. IMO static is always the better option if you are not changing any fields
+
+Exercise 5
+same discussion about static vs instance

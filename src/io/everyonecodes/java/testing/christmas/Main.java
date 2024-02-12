@@ -1,7 +1,5 @@
 package io.everyonecodes.java.testing.christmas;
 
-import io.everyonecodes.java.testing.random.Person;
-
 import java.util.Scanner;
 
 public class Main {
